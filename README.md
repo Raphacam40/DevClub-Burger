@@ -12,12 +12,18 @@ Este projeto tem como objetivo mostrar como utilizar as funções de array `forE
 - Somar tudo, reduce : soma todos os itens do cardápio
 - Filtrar, Filter : Mostra somente os itens veganos 
 
+
+https://github.com/user-attachments/assets/5b5c317e-b642-4ddf-a292-ff83886671a1
+
+
 ### 💻 Exemplos de Uso
 
 - **forEach**: Itera sobre cada elemento do array, permitindo a execução de uma função para cada item.
 - **map**: Cria um novo array com os resultados da chamada de uma função para cada elemento do array original.
 - **reduce**: Reduz o array a um único valor, aplicando uma função acumuladora em cada elemento.
 - **filter**: Cria um novo array com todos os elementos que passam no teste implementado pela função fornecida.
+
+  
 
 ## 🛠️ Tecnologias Utilizadas
 
